@@ -8,8 +8,8 @@ login()
 api = HfApi()
 
 # Define your local folder path and repository ID
-local_folder_path = "./SN7_YOLO_dataset"
-repo_id = "Eponitaxd/SN7_YOLO_dataset" # e.g., "Wauplin/Docmatix"
+local_folder_path = "./yolo_dataset"
+repo_id = "Eponitaxd/YOLO_xBD_dataset" # e.g., "Wauplin/Docmatix"
 
 # Optional: For maximum performance, set the HF_XET_HIGH_PERFORMANCE environment variable
 # This uses the Rust-based hf_xet backend which is enabled by default in huggingface_hub
