@@ -11,3 +11,5 @@ YOLO format uploaded to HuggingFace: https://huggingface.co/datasets/Eponitaxd/S
 
 ## xBD Dataset
 https://xview2.org/dataset
+
+YOLO segmentation format uploaded to HuggingFace: https://huggingface.co/datasets/Eponitaxd/YOLO_xBD_dataset/tree/main
